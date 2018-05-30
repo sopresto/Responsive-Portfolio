@@ -231,6 +231,15 @@ body {
         max-width: 400px;
     }   
 
+   #auth-image {
+       width: 100px;
+       max-width: auto;
+   }
+
+   p {
+       clear: both;
+   }
+
     @media screen and (max-width: 768px) {
         
     }
